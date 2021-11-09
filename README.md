@@ -7,9 +7,12 @@
 [![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FBudhirajaMadhav)](https://twitter.com/am_abazari)
 
 &nbsp;
-
+<img width="100%" alt="Codeing" src="https://media.discordapp.net/attachments/762383336994766938/907604373851496468/header_.png?width=1440&height=288" />
+<hr />
+<br />
 
 **Talking about Personal Stuffs:**
+
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
