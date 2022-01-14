@@ -17,7 +17,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 👨🏽‍💻 I’m currently working on Myself .
-- 🌱 I’m currently learning Node js .
+- 🌱 I’m currently learning PHP , Laravel .
 - 💬 Ask me about anything, I am happy to help .
 - ⚡️ Fun-Fact: I overthink this much, that if you're watching my profile right now, odds are that I might've seen you seeing me in my imagination already.
 - 📫 How to reach me: &nbsp;[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:amirhossein.abazari@yahoo.com)
