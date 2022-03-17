@@ -14,9 +14,11 @@ ithub-000?style=flat&logo=Github&logoColor=white)](https://github.com/Amirhossei
 
 **Talking about Personal Stuffs:**
 
-
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<div width="55%" align="right">
+<img  alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=am-abazari&show_icons=true&locale=en&layout=compact" alt="am-abazari" /></p>
+ <div/>
+  
 - 🧑‍💻 Full-Stack Web Developer .
 - 🌱 I’m currently learning Nodejs , Laravel .
 - 💬 Ask me about anything, I am happy to help .
