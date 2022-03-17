@@ -1,8 +1,6 @@
 
 ## Hi, I'm <strong>Amirhossein Abazari<strong/> , a Developer 🚀 from Iran.
 
-[![Github](https://img.shields.io/badge/-G
-ithub-000?style=flat&logo=Github&logoColor=white)](https://github.com/AmirhosseinAbazari/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amirhossein-abazari-388943224/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:amirhossein.abazari@yahoo.com)
 [![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FBudhirajaMadhav)](https://twitter.com/am_abazari)
