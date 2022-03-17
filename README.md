@@ -13,8 +13,6 @@ ithub-000?style=flat&logo=Github&logoColor=white)](https://github.com/Amirhossei
 <br />
 
 **Talking about Personal Stuffs:**
-
-<img  alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <img width="55%" align="right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=am-abazari&show_icons=true&locale=en&layout=compact" alt="am-abazari" />
   
 - 🧑‍💻 Full-Stack Web Developer .
