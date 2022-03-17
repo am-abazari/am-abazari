@@ -50,3 +50,4 @@ ithub-000?style=flat&logo=Github&logoColor=white)](https://github.com/Amirhossei
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
 </div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=am-abazari&show_icons=true&locale=en&layout=compact" alt="am-abazari" /></p>
