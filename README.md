@@ -1,5 +1,5 @@
 
-## Hi, I'm Amirhossein Abazari , a Developer 🚀 from Iran.
+## Hi, I'm <strong>Amirhossein Abazari<strong/> , a Developer 🚀 from Iran.
 
 [![Github](https://img.shields.io/badge/-G
 ithub-000?style=flat&logo=Github&logoColor=white)](https://github.com/AmirhosseinAbazari/)
@@ -16,7 +16,7 @@ ithub-000?style=flat&logo=Github&logoColor=white)](https://github.com/Amirhossei
 
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=am-abazari&show_icons=true&locale=en&layout=compact" alt="am-abazari" /></p>
 - 🧑‍💻 Full-Stack Web Developer .
 - 🌱 I’m currently learning Nodejs , Laravel .
 - 💬 Ask me about anything, I am happy to help .
@@ -50,4 +50,3 @@ ithub-000?style=flat&logo=Github&logoColor=white)](https://github.com/Amirhossei
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
 </div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=am-abazari&show_icons=true&locale=en&layout=compact" alt="am-abazari" /></p>
