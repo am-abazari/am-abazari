@@ -14,7 +14,7 @@
 <img width="55%" align="right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=am-abazari&show_icons=true&locale=en&layout=compact" alt="am-abazari" />
   
 - 🧑‍💻 Full-Stack Web Developer .
-- 🌱 I’m currently learning Nodejs , Laravel .
+- 🌱 I’m currently learning Laravel .
 - 💬 Ask me about anything, I am happy to help .
 - 📫 How to reach me: &nbsp;[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:amirhossein.abazari@yahoo.com)
 
