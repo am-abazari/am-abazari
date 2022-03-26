@@ -47,5 +47,5 @@
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-  <code><img width="50px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg">Postman</code>
+  <code><img width="50px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
 </div>
