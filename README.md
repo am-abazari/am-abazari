@@ -1,26 +1,34 @@
-
-## Hi, I'm <strong>Amirhossein Abazari<strong/> , a Developer 🚀 from Iran.
-
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amirhossein-abazari-388943224/)
+## Hi, I'm <strong>Amirhossein Abazari<strong/> 🚀
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:amirhossein.abazari@yahoo.com)
 [![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FBudhirajaMadhav)](https://twitter.com/am_abazari)
 
-&nbsp;
-<img width="100%" alt="Codeing" src="https://media.discordapp.net/attachments/762383336994766938/907604373851496468/header_.png?width=1440&height=288" />
-<hr />
-<br />
+<img src="https://quotefancy.com/media/wallpaper/3840x2160/1700728-Linus-Torvalds-Quote-Talk-is-cheap-Show-me-the-code.jpg" alt="img" />
 
-**Talking about Personal Stuffs:**
+## About Me
+```javascript
+const Amirhossein_Abazari = {
+    os: "Arch Linux",
+    skills: ["MongoDB", "React.js", "Node.js", "Express.js", "MySQL", "PHP", "Linux", "Redux", "Git", "Hapi", "Fastify", "PWA", "SPA" , "GraphQL" , "Postman"],
+    askMeAbout: ["Web Development", "Backend", "FrontEnd"],
+    webDevelopment: {
+        backEnd: ["Node.js", "Express.js", "Fastify", "Hapi", "PHP", "Laravel"],
+        frontEnd: ["React.js", "HTML", "CSS", "Bootstrap", "Redux", "Tailwind", "SASS", "JavaScript", "SPA", "PWA", "Material Design"],
+        databases: ["MongoDB", "MySQL"],
+    },
+    languages: {
+        Turkish: "100%",
+        English: "85%",
+        German: "80%",
+        Persian: "100%"
+    },
+    currentLearning: "Laravel",
+};
+```
+
+<br>
+
+## Expertise
 <img width="55%" align="right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=am-abazari&show_icons=true&locale=en&layout=compact" alt="am-abazari" />
-  
-- 🧑‍💻 Full-Stack Web Developer .
-- 🌱 I’m currently learning Laravel .
-- 💬 Ask me about anything, I am happy to help .
-- 📫 How to reach me: &nbsp;[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:amirhossein.abazari@yahoo.com)
-
-
-**Languages and Tools:** 
-
 <div>
   [<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>]
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
