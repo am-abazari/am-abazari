@@ -8,11 +8,11 @@
 ```javascript
 const Amirhossein_Abazari = {
     os: "Arch Linux",
-    skills: ["MongoDB", "React.js", "Node.js", "Express.js", "MySQL", "PHP", "Linux", "Redux", "Git", "Hapi", "Fastify", "PWA", "SPA" , "GraphQL" , "Postman"],
+    skills: ["MongoDB", "React.js","Next.js", "Node.js", "Express.js", "MySQL", "PHP", "Linux", "Redux","TypeScript", "Git", "Hapi", "Fastify", "PWA", "SPA" , "GraphQL" , "Postman"],
     askMeAbout: ["Web Development", "Backend", "FrontEnd"],
     webDevelopment: {
         backEnd: ["Node.js", "Express.js", "Fastify", "Hapi", "PHP", "Laravel"],
-        frontEnd: ["React.js", "HTML", "CSS", "Bootstrap", "Redux", "Tailwind", "SASS", "JavaScript", "SPA", "PWA", "Material Design"],
+        frontEnd: ["React.js","Next.js" , "HTML", "CSS", "Bootstrap", "Redux", "Tailwind", "SASS", "JavaScript","TypeScript", "SPA", "PWA", "Material Design"],
         databases: ["MongoDB", "MySQL"],
     },
     languages: {
