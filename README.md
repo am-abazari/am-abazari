@@ -27,7 +27,7 @@ const Amirhossein_Abazari = {
 
 <br>
 
-## Expertise
+## Skills
 <img width="55%" align="right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=am-abazari&show_icons=true&locale=en&layout=compact" alt="am-abazari" />
 <div>
   [<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>]
